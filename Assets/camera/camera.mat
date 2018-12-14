@@ -1,0 +1,13 @@
+MadeOf Wood
+
+PhongEnvironment
+{
+	DiffuseMap camera/camera_d.tga
+	NormalMap camera/camera_n.tga
+	SpecularMap camera/camera_s.tga
+	UseSpecular
+	SpecularExponent 256
+	SpecularColor 1 1 1
+	SpecularIntensity 2
+}
+

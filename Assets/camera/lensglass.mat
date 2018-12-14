@@ -1,0 +1,12 @@
+MadeOf Wood
+
+ComplexRefraction
+{
+	DiffuseMap camera/glass_d.tga
+	NormalMap camera/glass_n.tga
+	SpecularMap camera/glass_s.tga
+	SpecularColor 1 0.491724 0.203707
+	Fresnel 1
+	SpecularExponent 9000
+}
+
